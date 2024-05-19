@@ -1,9 +1,9 @@
-  =>  Template Name    : AirCon - AC Repair Website Template
+  =>  Template Name    : Umer-Cooling-Center - AC Repair Website Template
 
   =>  Template Link    : https://htmlcodex.com/ac-repair-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : HTML 
 
   =>  Author Website   : https://htmlcodex.com
